@@ -11,5 +11,3 @@ def gcdExtended(a, b):
 		return (g, y - (b // a) * x, x)
 
 
-def ModularEquationSolver(a, b, n):
-	
