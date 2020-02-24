@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <stdio.h>
 #include <math.h>
@@ -210,8 +209,3 @@ void main()
 		}
 		cout << endl;
 	}
-
---------------------- 
-Author：Flammable_ice
-From：CSDN
-URL：https://blog.csdn.net/z84616995z/article/details/24308087
